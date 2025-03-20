@@ -2,7 +2,7 @@
 
 This repository documents a comprehensive project that applies process mining techniques to identify and resolve operational bottlenecks in alternative investment workflows – specifically focusing on the capital call process. The project demonstrates how data-driven insights, combined with process redesign and Robotic Process Automation (RPA), can reduce processing times and improve investor satisfaction.
 This repo also educates about iCapitals business initiatives and their vision of improving the operational efficiency of their process and leveraging growth in alternative investment marketplace.
-
+ 
 ## Table of Contents
 
 - [Introduction](#introduction)
